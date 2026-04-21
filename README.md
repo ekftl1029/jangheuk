@@ -6,18 +6,12 @@
 ---
 
 ### 🛠️ Tech Stacks
-<p align="left">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-</p>
+현재 없음
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://vercel.app[본인ID]&show_icons=true&theme=radical)
-![Top Langs](https://vercel.app[본인ID]&layout=compact&theme=radical)
+현재 없음
 
 ---
 
